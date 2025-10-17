@@ -1,4 +1,4 @@
-# python/password_check_lambda.py
+
 import json
 import re
 
